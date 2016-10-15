@@ -1,9 +1,9 @@
-Lainchan - A fork of vichan
+Lainchins - A fork of lainchan
 ========================================================
 
 About
 ------------
-Lainchan is a fork of [vichan](http://github.com/vichan-devel/vichan),
+Lainchins is a fork of [lainchan](http://github.com/lainchan/lainchan),
 a great imageboard package, actively building on it and adding a lot of features and other
 improvements.
 
