@@ -5,7 +5,7 @@ body {
 		padding: 0px !important;
 	 overflow-x:hidden!important;
 		 background-size: cover !important;
-		 background-color: #222  !important;
+		 background-color: #333  !important;
 		 background-image:
 			 url(https://gs1.wac.edgecastcdn.net/8019B6/data.tumblr.com/tumblr_mc0xu6C22f1qbj9bko1_500.gif);
 		 background-repeat: no-repeat !important;
